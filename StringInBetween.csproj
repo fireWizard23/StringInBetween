@@ -8,9 +8,9 @@
     <PackageId>StringInBetween</PackageId>
     <Version>0.0.1</Version>
     <Authors>CoderRM</Authors>
-    <Copyright>Copyright (c) CoderRM 2023<Copyright/>
+    <Copyright>Copyright (c) CoderRM 2023</Copyright>
     <Description>A simple library for getting strings in between strings and do something with them.</Description>
-    <PackageTags>string,parse,strings in between strings<PackageTags/>
+    <PackageTags>string,parse,strings in between strings</PackageTags>
   </PropertyGroup>
 
 </Project>
